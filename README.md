@@ -20,16 +20,11 @@ I am a passionate Artificial Intelligence and Data Science student interested in
 
 ### Programming Languages
 - Python
-- C
 - C++
-- Java
-- JavaScript
 
 ### Web Development
 - HTML
 - CSS
-- JavaScript
-- Vite
 
 ### Data & AI
 - Python
@@ -46,11 +41,8 @@ I am a passionate Artificial Intelligence and Data Science student interested in
 - Supabase
 
 ### Tools & Technologies
-- Git
-- GitHub
 - VS Code
 - Android Studio
-- Vercel
 
 ## 🚀 Featured Projects
 
@@ -82,7 +74,6 @@ A smart platform designed to improve waste collection, recycling management, and
 - 📈 Statistics
 - 🧠 Artificial Intelligence
 - 💻 Data Structures & Algorithms
-- 🌐 Full-Stack Development
 
 ## 🎯 Career Goals
 
