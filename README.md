@@ -60,20 +60,17 @@ An AI-powered web application developed to provide intelligent monitoring and se
 
 **Technologies:** HTML, CSS, JavaScript, Python, Supabase, Vite
 
-🔗 **Live Demo:** Add your Vercel link here
-
-🔗 **Repository:** Add your GitHub repository link here
+🔗 **Live Demo:** https://luna-guard-ai-project.vercel.app/
 
 ---
 
-### ♻️ Smart Waste Collection & Recycling Platform
+### ♻️ EcoSort AI
 
 A smart platform designed to improve waste collection, recycling management, and resource utilization using modern web technologies and intelligent features.
 
 **Technologies:** HTML, CSS, JavaScript, Python, Supabase
 
-🔗 **Repository:** Add your GitHub repository link here
-
+🔗 **Live Demo:** https://hack-fp5xf9lfl-sayali21.vercel.app?_vercel_share=kIEJg0mtxKR3XVjb7QghicLxjgShuYF9
 ---
 
 ## 📚 Currently Learning
