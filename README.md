@@ -1,16 +1,106 @@
-## Hi there 👋
+# 👋 Hi, I'm Sayali Gujar
 
-<!--
-**Gujardg/Gujardg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Artificial Intelligence & Data Science Student**
 
-Here are some ideas to get you started:
+I am a passionate Artificial Intelligence and Data Science student interested in building practical technology solutions and solving real-world problems using data and AI. I enjoy developing projects, learning new technologies, and continuously improving my programming and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science
+- 💻 Interested in Artificial Intelligence, Machine Learning & Data Analytics
+- 🐍 Learning and building projects with Python
+- 📊 Interested in Data Analysis, Statistics & Visualization
+- 🌐 Building responsive web applications
+- 🗄️ Learning SQL and Database Management
+- 🤖 Exploring Machine Learning and AI technologies
+- 🚀 Interested in developing real-world software projects
+- 📚 Continuously learning and improving my technical skills
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- C
+- C++
+- Java
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- Vite
+
+### Data & AI
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Data Analytics
+- Statistics
+- Machine Learning
+
+### Database
+- SQL
+- DBMS
+- Supabase
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Android Studio
+- Vercel
+
+## 🚀 Featured Projects
+
+### 🤖 LunaGuard AI
+
+An AI-powered web application developed to provide intelligent monitoring and security-related functionality.
+
+**Technologies:** HTML, CSS, JavaScript, Python, Supabase, Vite
+
+🔗 **Live Demo:** Add your Vercel link here
+
+🔗 **Repository:** Add your GitHub repository link here
+
+---
+
+### ♻️ Smart Waste Collection & Recycling Platform
+
+A smart platform designed to improve waste collection, recycling management, and resource utilization using modern web technologies and intelligent features.
+
+**Technologies:** HTML, CSS, JavaScript, Python, Supabase
+
+🔗 **Repository:** Add your GitHub repository link here
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 Machine Learning
+- 📊 Data Analytics
+- 🐍 Advanced Python
+- 🗄️ SQL & DBMS
+- 📈 Statistics
+- 🧠 Artificial Intelligence
+- 💻 Data Structures & Algorithms
+- 🌐 Full-Stack Development
+
+## 🎯 Career Goals
+
+My goal is to become a skilled **AI & Data Science professional** by combining programming, data analysis, machine learning, and problem-solving skills to develop useful and impactful real-world applications.
+
+## 📈 My GitHub Journey
+
+I use GitHub to document my learning journey, practice programming, build projects, explore new technologies, and share my work with the developer community.
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sayaligujar?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📧 Email: gujarsayali034@gmail.com
+- 💻 GitHub: https://github.com/Gujardg
+
+---
+
+⭐ **Thanks for visiting my profile!**
