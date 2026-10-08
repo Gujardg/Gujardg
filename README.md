@@ -70,7 +70,7 @@ A smart platform designed to improve waste collection, recycling management, and
 
 **Technologies:** HTML, CSS, JavaScript, Python, Supabase
 
-🔗 **Live Demo:**https://hack-fp5xf9lfl-sayali21.vercel.app?_vercel_share=kIEJg0mtxKR3XVjb7QghicLxjgShuYF9
+🔗 **Live Demo:** https://hack-fp5xf9lfl-sayali21.vercel.app/
 ---
 
 ## 📚 Currently Learning
